@@ -29,7 +29,6 @@ $(function (){
             $('.layui-nav-img').hide()
         }else {
             //渲染图片头像
-            debugger
             $('.layui-nav-img').attr('src',user.user_pic).show()
             $('.text-avatar').hide()
         }
