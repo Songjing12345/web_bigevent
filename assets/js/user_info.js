@@ -45,6 +45,7 @@ $(function (){
                 }
                 layer.msg('用户信息修改成功')
                 //让父元素的头像和名称随之一起改变
+                debugger
                 window.parent.getUserInfo()
             }
         })

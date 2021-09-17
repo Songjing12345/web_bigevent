@@ -44,8 +44,6 @@ $('#link_Login').on('click',function (){
             // console.log('注册成功')
             //手动调用点击事件
             $('#link_login').click()
-            // $('.login-box').show();
-            // $('.reg-box').hide();
         })
 
     })
